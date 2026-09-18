@@ -2,7 +2,7 @@
 
 ## ENUNCIADO
 
-Teoría asociada: https://github.com/poliestireno/ASIR2_2025/blob/main/SAD/files/comandos_linux.md
+Teoría asociada: https://poliestireno.github.io/VARIOS_2026/clase-sad-material2/teoria-permisos-linux.html
 
 ### FASE 1: Permisos de Archivos en Linux
 
