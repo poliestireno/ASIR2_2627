@@ -42,6 +42,8 @@ Utilizaremos la herramienta Hydra para simular 2 ataques por fuerza bruta con `d
 - Usar Hydra para realizar un ataque de fuerza bruta, utilizando `diccionarion`.
 - Analizar los resultados y estudiar cómo mitigar ataques similares en entornos reales.
 
+**FIN ENUNCIADO**
+
 ---
 
 ## DESAFÍO NCA
