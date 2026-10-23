@@ -95,7 +95,7 @@ PHP 8.3.6 (cli) (built: ...) ( NTS )
 Ahora guarda la versión corta (por ejemplo, `8.3`) en una variable. La usaremos en el resto de la práctica para no tener que escribirla a mano:
 
 ```bash
-PHPV=$(php -r 'echo PHP_MAJOR_VERSION."."PHP_MINOR_VERSION;')
+PHPV=$(php -r 'echo PHP_MAJOR_VERSION . "." . PHP_MINOR_VERSION;')
 echo $PHPV
 ```
 
