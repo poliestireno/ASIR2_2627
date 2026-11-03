@@ -2,7 +2,9 @@
 
 ## ENUNCIADO
 
-Crea una página PHP en la que salgan 2 manos de póker, 5 cartas en cada una, para dos jugadores. Las cartas deben ser aleatorias, y sí se pueden repetir.
+- Una primera página con un botón "Jugar". Al pulsarlo se pasa a una segunda pantalla donde se muestran las 2 manos de póker (5 cartas cada una), usando la baraja completa de 52 cartas (sus palos y valores); da igual que se repitan cartas entre las dos manos.
+- Debajo de las manos, indicar cuál de las dos gana según la regla de comparación de cartas más altas descrita arriba.
+- 2 manos de póker, 5 cartas en cada una, para dos jugadores. Las cartas deben ser aleatorias, y sí se pueden repetir.
 
 Debajo habrá un `<textarea>` que dirá quién gana a la mano más alta: se comparan únicamente las cartas más altas de cada mano, una a una (de mayor a menor), sin tener en cuenta jugadas como pareja, doble pareja, trío, etc. Por ejemplo, la jugada `J 8 7 6 6` gana a la jugada `8 J 6 6 6`, ya que al ordenar ambas de mayor a menor y comparar carta a carta, la tercera carta más alta (7 frente a 6) decide la mano.
 
@@ -24,8 +26,7 @@ https://magicomagico.com/gilbertron/recursos/AC.png
 
 ### Se pide
 
-- Una primera página con un botón "Jugar". Al pulsarlo se pasa a una segunda pantalla donde se muestran las 2 manos de póker (5 cartas cada una), usando la baraja completa de 52 cartas (sus palos y valores); da igual que se repitan cartas entre las dos manos.
-- Debajo de las manos, indicar cuál de las dos gana según la regla de comparación de cartas más altas descrita arriba.
+
 - La implementación del PHP, subida al repositorio de GitHub, y además pantallazos de que se ve funcionando en Mint.
 
 **FIN ENUNCIADO**
