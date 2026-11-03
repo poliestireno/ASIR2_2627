@@ -2,7 +2,7 @@
 
 ## ENUNCIADO
 
-- Una primera página con un botón "Jugar". Al pulsarlo se pasa a una segunda pantalla donde se muestran las 2 manos de póker (5 cartas cada una), usando la baraja completa de 52 cartas (sus palos y valores); da igual que se repitan cartas entre las dos manos.
+- Una primera página con un botón "Jugar". Al pulsarlo se pasa a una segunda pantalla donde se muestran las 2 manos de póker (5 cartas cada una), usando la baraja completa de 52 cartas (sus 4 palos y valores); da igual que se repitan cartas entre las dos manos.
 - Debajo de las manos, indicar cuál de las dos gana según la regla de comparación de cartas más altas descrita arriba.
 - 2 manos de póker, 5 cartas en cada una, para dos jugadores. Las cartas deben ser aleatorias, y sí se pueden repetir.
 
