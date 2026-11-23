@@ -2,6 +2,8 @@
 
 ## ENUNCIADO
 
+Añadir tambien los 2 ejercicios de clase de princesas y gta6
+
 Eres el DBA (administrador) de una base de datos SQLite para una pequeña aplicación de gestión de frutas en dispositivos móviles. Tendrás que configurar correctamente la base de datos, optimizar su rendimiento, realizar backups/restauraciones y garantizar la seguridad de los datos almacenados.
 
 Log de consultas de referencia (para el apartado de optimización): https://drive.google.com/file/d/1RToxJsbzJo_mOdjcGh6ff2DMFP7RsQAA/view
